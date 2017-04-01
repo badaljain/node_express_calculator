@@ -1,0 +1,16 @@
+.spacer > * {
+	margin: 10px;
+}
+
+.error {
+	color: red;
+	font-weight: 500;
+	font-size: larger;
+}
+
+.success {
+	color: green;
+	font-weight: 500;
+	font-size: larger;
+	margin: 10px;
+}
