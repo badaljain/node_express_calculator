@@ -1,10 +1,10 @@
-Contains a basic calculator that does 4 basic operations
-Add, Substract, Divide and Multiply
-Uses nodejs as the server
-Uses React for clientside rendering
-Uses Webpack for building js
+1. Contains a basic calculator that does 4 basic operations
+2. Add, Substract, Divide and Multiply
+3. Uses nodejs as the server
+4. Uses React for clientside rendering
+5. Uses Webpack for building js
 
-Steps to run:
+# Steps to run:
 	npm start
-To run in dev env:
+# To run in dev env:
 	npm run dev
